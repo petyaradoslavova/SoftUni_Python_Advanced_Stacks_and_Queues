@@ -50,3 +50,10 @@ if medicaments:
     print(f'Medicaments left: {", ".join(map(str,reversed_mediks))}')
 if textile_collection:
     print(f"Textiles left: {', '.join(map(str,textile_collection))}")
+
+
+
+#example input data
+#30 30 10 80 60
+#40 20 30 10 70
+
